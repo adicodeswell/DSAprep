@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Sorting
 |  |
@@ -36,4 +37,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
