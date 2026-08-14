@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/adicodeswell/DSAprep/tree/master/0041-first-missing-positive) |
+| [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
 | [0940-fruit-into-baskets](https://github.com/adicodeswell/DSAprep/tree/master/0940-fruit-into-baskets) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adicodeswell/DSAprep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/adicodeswell/DSAprep/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Sorting
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
+| [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
 ## Stack
 |  |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/adicodeswell/DSAprep/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 ## Quicksort
 |  |
 | ------- |
