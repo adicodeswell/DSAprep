@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/adicodeswell/DSAprep/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0226-invert-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
