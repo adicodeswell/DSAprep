@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -179,4 +183,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/adicodeswell/DSAprep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adicodeswell/DSAprep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adicodeswell/DSAprep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
