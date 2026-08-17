@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/adicodeswell/DSAprep/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/adicodeswell/DSAprep/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/adicodeswell/DSAprep/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
@@ -202,6 +205,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/adicodeswell/DSAprep/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
