@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/adicodeswell/DSAprep/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/adicodeswell/DSAprep/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/adicodeswell/DSAprep/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/adicodeswell/DSAprep/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/adicodeswell/DSAprep/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/adicodeswell/DSAprep/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/adicodeswell/DSAprep/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/adicodeswell/DSAprep/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/adicodeswell/DSAprep/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -286,4 +289,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adicodeswell/DSAprep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adicodeswell/DSAprep/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/adicodeswell/DSAprep/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/adicodeswell/DSAprep/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
