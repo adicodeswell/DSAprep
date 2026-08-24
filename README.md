@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/adicodeswell/DSAprep/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/adicodeswell/DSAprep/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/adicodeswell/DSAprep/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0144-binary-tree-preorder-traversal) |
