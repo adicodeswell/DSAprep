@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1168-duplicate-zeros](https://github.com/adicodeswell/DSAprep/tree/master/1168-duplicate-zeros) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adicodeswell/DSAprep/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/adicodeswell/DSAprep/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adicodeswell/DSAprep/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/adicodeswell/DSAprep/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
 | [0940-fruit-into-baskets](https://github.com/adicodeswell/DSAprep/tree/master/0940-fruit-into-baskets) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/adicodeswell/DSAprep/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Greedy
 |  |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/adicodeswell/DSAprep/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adicodeswell/DSAprep/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/adicodeswell/DSAprep/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Counting
 |  |
@@ -72,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/adicodeswell/DSAprep/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adicodeswell/DSAprep/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/adicodeswell/DSAprep/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
 | ------- |
@@ -255,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/adicodeswell/DSAprep/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [1168-duplicate-zeros](https://github.com/adicodeswell/DSAprep/tree/master/1168-duplicate-zeros) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/adicodeswell/DSAprep/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Quicksort
 |  |
 | ------- |
