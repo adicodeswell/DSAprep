@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/adicodeswell/DSAprep/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/adicodeswell/DSAprep/tree/master/0940-fruit-into-baskets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1168-duplicate-zeros](https://github.com/adicodeswell/DSAprep/tree/master/1168-duplicate-zeros) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adicodeswell/DSAprep/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adicodeswell/DSAprep/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/adicodeswell/DSAprep/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/adicodeswell/DSAprep/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
+| [1168-duplicate-zeros](https://github.com/adicodeswell/DSAprep/tree/master/1168-duplicate-zeros) |
 ## Quicksort
 |  |
 | ------- |
