@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0041-first-missing-positive](https://github.com/adicodeswell/DSAprep/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/adicodeswell/DSAprep/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/adicodeswell/DSAprep/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/adicodeswell/DSAprep/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/adicodeswell/DSAprep/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0941-sort-array-by-parity](https://github.com/adicodeswell/DSAprep/tree/master/0941-sort-array-by-parity) |
@@ -320,4 +322,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/adicodeswell/DSAprep/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
