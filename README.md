@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adicodeswell/DSAprep/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/adicodeswell/DSAprep/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/adicodeswell/DSAprep/tree/master/2329-maximum-product-after-k-increments) |
+| [4378-nearest-available-drone](https://github.com/adicodeswell/DSAprep/tree/master/4378-nearest-available-drone) |
 ## Hash Table
 |  |
 | ------- |
@@ -330,4 +331,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [4378-nearest-available-drone](https://github.com/adicodeswell/DSAprep/tree/master/4378-nearest-available-drone) |
 <!---LeetCode Topics End-->
