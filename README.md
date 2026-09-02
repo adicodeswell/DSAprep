@@ -359,4 +359,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/adicodeswell/DSAprep/tree/master/0175-combine-two-tables) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/adicodeswell/DSAprep/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
