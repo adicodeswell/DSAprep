@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adicodeswell/DSAprep/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/adicodeswell/DSAprep/tree/master/0739-daily-temperatures) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/adicodeswell/DSAprep/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0940-fruit-into-baskets](https://github.com/adicodeswell/DSAprep/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/adicodeswell/DSAprep/tree/master/0941-sort-array-by-parity) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adicodeswell/DSAprep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/adicodeswell/DSAprep/tree/master/0455-assign-cookies) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/adicodeswell/DSAprep/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
 | [0941-sort-array-by-parity](https://github.com/adicodeswell/DSAprep/tree/master/0941-sort-array-by-parity) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adicodeswell/DSAprep/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
