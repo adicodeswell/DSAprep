@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0457-circular-array-loop](https://github.com/adicodeswell/DSAprep/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/adicodeswell/DSAprep/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/adicodeswell/DSAprep/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/adicodeswell/DSAprep/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/adicodeswell/DSAprep/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/adicodeswell/DSAprep/tree/master/0941-sort-array-by-parity) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/adicodeswell/DSAprep/tree/master/0724-find-pivot-index) |
 ## String
 |  |
 | ------- |
