@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/adicodeswell/DSAprep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adicodeswell/DSAprep/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/adicodeswell/DSAprep/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/adicodeswell/DSAprep/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adicodeswell/DSAprep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adicodeswell/DSAprep/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/adicodeswell/DSAprep/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Floyd's Cycle Finding Algorithm
@@ -370,4 +372,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0175-combine-two-tables](https://github.com/adicodeswell/DSAprep/tree/master/0175-combine-two-tables) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/adicodeswell/DSAprep/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adicodeswell/DSAprep/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
