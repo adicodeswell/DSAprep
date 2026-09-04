@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/adicodeswell/DSAprep/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/adicodeswell/DSAprep/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/adicodeswell/DSAprep/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/adicodeswell/DSAprep/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/adicodeswell/DSAprep/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/adicodeswell/DSAprep/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/adicodeswell/DSAprep/tree/master/0503-next-greater-element-ii) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/adicodeswell/DSAprep/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/adicodeswell/DSAprep/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
