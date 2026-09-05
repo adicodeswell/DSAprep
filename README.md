@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/adicodeswell/DSAprep/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adicodeswell/DSAprep/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2227-sum-of-subarray-ranges](https://github.com/adicodeswell/DSAprep/tree/master/2227-sum-of-subarray-ranges) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/adicodeswell/DSAprep/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/adicodeswell/DSAprep/tree/master/2329-maximum-product-after-k-increments) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/adicodeswell/DSAprep/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/adicodeswell/DSAprep/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/adicodeswell/DSAprep/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2227-sum-of-subarray-ranges](https://github.com/adicodeswell/DSAprep/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/adicodeswell/DSAprep/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/adicodeswell/DSAprep/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2227-sum-of-subarray-ranges](https://github.com/adicodeswell/DSAprep/tree/master/2227-sum-of-subarray-ranges) |
 ## Ordered Set
 |  |
 | ------- |
