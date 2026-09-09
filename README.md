@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/adicodeswell/DSAprep/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/adicodeswell/DSAprep/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/adicodeswell/DSAprep/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/adicodeswell/DSAprep/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/adicodeswell/DSAprep/tree/master/0404-sum-of-left-leaves) |
 | [1035-cousins-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/adicodeswell/DSAprep/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adicodeswell/DSAprep/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Two Pointers
