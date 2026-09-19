@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/adicodeswell/DSAprep/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/adicodeswell/DSAprep/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adicodeswell/DSAprep/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/adicodeswell/DSAprep/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adicodeswell/DSAprep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/adicodeswell/DSAprep/tree/master/0455-assign-cookies) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/adicodeswell/DSAprep/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adicodeswell/DSAprep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/adicodeswell/DSAprep/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adicodeswell/DSAprep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/adicodeswell/DSAprep/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/adicodeswell/DSAprep/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/adicodeswell/DSAprep/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/adicodeswell/DSAprep/tree/master/0740-delete-and-earn) |
 | [0943-sum-of-subarray-minimums](https://github.com/adicodeswell/DSAprep/tree/master/0943-sum-of-subarray-minimums) |
@@ -443,4 +446,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0279-perfect-squares](https://github.com/adicodeswell/DSAprep/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/adicodeswell/DSAprep/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
