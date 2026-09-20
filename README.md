@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/adicodeswell/DSAprep/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/adicodeswell/DSAprep/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -469,4 +470,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adicodeswell/DSAprep/tree/master/0646-maximum-length-of-pair-chain) |
+## Simulation
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/adicodeswell/DSAprep/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
