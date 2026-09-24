@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [1777-determine-if-two-strings-are-close](https://github.com/adicodeswell/DSAprep/tree/master/1777-determine-if-two-strings-are-close) |
+| [2470-removing-stars-from-a-string](https://github.com/adicodeswell/DSAprep/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/adicodeswell/DSAprep/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-build-an-array-with-stack-operations](https://github.com/adicodeswell/DSAprep/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/adicodeswell/DSAprep/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/adicodeswell/DSAprep/tree/master/2227-sum-of-subarray-ranges) |
+| [2470-removing-stars-from-a-string](https://github.com/adicodeswell/DSAprep/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -494,5 +496,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/adicodeswell/DSAprep/tree/master/1552-build-an-array-with-stack-operations) |
+| [2470-removing-stars-from-a-string](https://github.com/adicodeswell/DSAprep/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/adicodeswell/DSAprep/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
