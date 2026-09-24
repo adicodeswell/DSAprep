@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adicodeswell/DSAprep/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/adicodeswell/DSAprep/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/adicodeswell/DSAprep/tree/master/2329-maximum-product-after-k-increments) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [1777-determine-if-two-strings-are-close](https://github.com/adicodeswell/DSAprep/tree/master/1777-determine-if-two-strings-are-close) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/adicodeswell/DSAprep/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/adicodeswell/DSAprep/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-number-of-visible-people-in-a-queue](https://github.com/adicodeswell/DSAprep/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1552-build-an-array-with-stack-operations](https://github.com/adicodeswell/DSAprep/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/adicodeswell/DSAprep/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/adicodeswell/DSAprep/tree/master/2227-sum-of-subarray-ranges) |
 | [2470-removing-stars-from-a-string](https://github.com/adicodeswell/DSAprep/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
