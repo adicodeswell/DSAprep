@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/adicodeswell/DSAprep/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
+| [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [3811-reverse-degree-of-a-string](https://github.com/adicodeswell/DSAprep/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/adicodeswell/DSAprep/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/adicodeswell/DSAprep/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/adicodeswell/DSAprep/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/adicodeswell/DSAprep/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/adicodeswell/DSAprep/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0457-circular-array-loop](https://github.com/adicodeswell/DSAprep/tree/master/0457-circular-array-loop) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/adicodeswell/DSAprep/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/adicodeswell/DSAprep/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/adicodeswell/DSAprep/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adicodeswell/DSAprep/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -480,5 +483,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [3811-reverse-degree-of-a-string](https://github.com/adicodeswell/DSAprep/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
