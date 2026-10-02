@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0457-circular-array-loop](https://github.com/adicodeswell/DSAprep/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/adicodeswell/DSAprep/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/adicodeswell/DSAprep/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/adicodeswell/DSAprep/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adicodeswell/DSAprep/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adicodeswell/DSAprep/tree/master/0724-find-pivot-index) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/adicodeswell/DSAprep/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/adicodeswell/DSAprep/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/adicodeswell/DSAprep/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adicodeswell/DSAprep/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
