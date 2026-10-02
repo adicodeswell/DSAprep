@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/adicodeswell/DSAprep/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/adicodeswell/DSAprep/tree/master/0165-compare-version-numbers) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/adicodeswell/DSAprep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adicodeswell/DSAprep/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/adicodeswell/DSAprep/tree/master/0070-climbing-stairs) |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/adicodeswell/DSAprep/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/adicodeswell/DSAprep/tree/master/1160-letter-tile-possibilities) |
@@ -524,4 +527,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/adicodeswell/DSAprep/tree/master/0374-guess-number-higher-or-lower) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
