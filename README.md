@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/adicodeswell/DSAprep/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1552-build-an-array-with-stack-operations](https://github.com/adicodeswell/DSAprep/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/adicodeswell/DSAprep/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1598-crawler-log-folder](https://github.com/adicodeswell/DSAprep/tree/master/1598-crawler-log-folder) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adicodeswell/DSAprep/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2227-sum-of-subarray-ranges](https://github.com/adicodeswell/DSAprep/tree/master/2227-sum-of-subarray-ranges) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/adicodeswell/DSAprep/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [1160-letter-tile-possibilities](https://github.com/adicodeswell/DSAprep/tree/master/1160-letter-tile-possibilities) |
+| [1598-crawler-log-folder](https://github.com/adicodeswell/DSAprep/tree/master/1598-crawler-log-folder) |
 | [1777-determine-if-two-strings-are-close](https://github.com/adicodeswell/DSAprep/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-number-of-visible-people-in-a-queue](https://github.com/adicodeswell/DSAprep/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1552-build-an-array-with-stack-operations](https://github.com/adicodeswell/DSAprep/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/adicodeswell/DSAprep/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1598-crawler-log-folder](https://github.com/adicodeswell/DSAprep/tree/master/1598-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/adicodeswell/DSAprep/tree/master/2227-sum-of-subarray-ranges) |
 | [2470-removing-stars-from-a-string](https://github.com/adicodeswell/DSAprep/tree/master/2470-removing-stars-from-a-string) |
