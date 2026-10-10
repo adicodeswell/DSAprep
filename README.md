@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/adicodeswell/DSAprep/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/adicodeswell/DSAprep/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/adicodeswell/DSAprep/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/adicodeswell/DSAprep/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/adicodeswell/DSAprep/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adicodeswell/DSAprep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/adicodeswell/DSAprep/tree/master/0090-subsets-ii) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/adicodeswell/DSAprep/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/adicodeswell/DSAprep/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/adicodeswell/DSAprep/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/adicodeswell/DSAprep/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/adicodeswell/DSAprep/tree/master/0257-binary-tree-paths) |
@@ -543,4 +545,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/adicodeswell/DSAprep/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
