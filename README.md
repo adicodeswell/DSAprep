@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-convert-the-temperature](https://github.com/adicodeswell/DSAprep/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adicodeswell/DSAprep/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adicodeswell/DSAprep/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3516-find-closest-person](https://github.com/adicodeswell/DSAprep/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/adicodeswell/DSAprep/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/adicodeswell/DSAprep/tree/master/3945-digit-frequency-score) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/adicodeswell/DSAprep/tree/master/4258-construct-uniform-parity-array-ii) |
