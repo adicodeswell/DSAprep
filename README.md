@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/adicodeswell/DSAprep/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/adicodeswell/DSAprep/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/adicodeswell/DSAprep/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0151-reverse-words-in-a-string) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adicodeswell/DSAprep/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/adicodeswell/DSAprep/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/adicodeswell/DSAprep/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
@@ -506,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adicodeswell/DSAprep/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/adicodeswell/DSAprep/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adicodeswell/DSAprep/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
@@ -547,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adicodeswell/DSAprep/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/adicodeswell/DSAprep/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/adicodeswell/DSAprep/tree/master/1552-build-an-array-with-stack-operations) |
