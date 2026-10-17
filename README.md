@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/adicodeswell/DSAprep/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2460-apply-operations-to-an-array](https://github.com/adicodeswell/DSAprep/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/adicodeswell/DSAprep/tree/master/2574-left-and-right-sum-differences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/adicodeswell/DSAprep/tree/master/2678-number-of-senior-citizens) |
 | [2727-number-of-senior-citizens](https://github.com/adicodeswell/DSAprep/tree/master/2727-number-of-senior-citizens) |
 | [3701-compute-alternating-sum](https://github.com/adicodeswell/DSAprep/tree/master/3701-compute-alternating-sum) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/adicodeswell/DSAprep/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/adicodeswell/DSAprep/tree/master/1980-find-unique-binary-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3945-digit-frequency-score](https://github.com/adicodeswell/DSAprep/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/adicodeswell/DSAprep/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adicodeswell/DSAprep/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/adicodeswell/DSAprep/tree/master/0338-counting-bits) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Pigeonhole Principle
 |  |
 | ------- |
