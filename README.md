@@ -517,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adicodeswell/DSAprep/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/adicodeswell/DSAprep/tree/master/3280-convert-date-to-binary) |
 | [3516-find-closest-person](https://github.com/adicodeswell/DSAprep/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adicodeswell/DSAprep/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/adicodeswell/DSAprep/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/adicodeswell/DSAprep/tree/master/3945-digit-frequency-score) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/adicodeswell/DSAprep/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -619,4 +620,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/adicodeswell/DSAprep/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adicodeswell/DSAprep/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
