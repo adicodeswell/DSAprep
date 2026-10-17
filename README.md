@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/adicodeswell/DSAprep/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/adicodeswell/DSAprep/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/adicodeswell/DSAprep/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/adicodeswell/DSAprep/tree/master/0412-fizz-buzz) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/adicodeswell/DSAprep/tree/master/0771-jewels-and-stones) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/adicodeswell/DSAprep/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/adicodeswell/DSAprep/tree/master/0279-perfect-squares) |
+| [0412-fizz-buzz](https://github.com/adicodeswell/DSAprep/tree/master/0412-fizz-buzz) |
 | [2396-strictly-palindromic-number](https://github.com/adicodeswell/DSAprep/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/adicodeswell/DSAprep/tree/master/2413-smallest-even-multiple) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/adicodeswell/DSAprep/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -572,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adicodeswell/DSAprep/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/adicodeswell/DSAprep/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/adicodeswell/DSAprep/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/adicodeswell/DSAprep/tree/master/1552-build-an-array-with-stack-operations) |
