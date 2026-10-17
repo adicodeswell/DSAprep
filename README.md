@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/adicodeswell/DSAprep/tree/master/2678-number-of-senior-citizens) |
 | [2727-number-of-senior-citizens](https://github.com/adicodeswell/DSAprep/tree/master/2727-number-of-senior-citizens) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adicodeswell/DSAprep/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3701-compute-alternating-sum](https://github.com/adicodeswell/DSAprep/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/adicodeswell/DSAprep/tree/master/3925-concatenate-array-with-reverse) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/adicodeswell/DSAprep/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adicodeswell/DSAprep/tree/master/2778-sum-of-squares-of-special-elements) |
 | [4378-nearest-available-drone](https://github.com/adicodeswell/DSAprep/tree/master/4378-nearest-available-drone) |
 ## Bit Manipulation
 |  |
