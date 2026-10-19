@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/adicodeswell/DSAprep/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/adicodeswell/DSAprep/tree/master/0917-reverse-only-letters) |
+| [1108-defanging-an-ip-address](https://github.com/adicodeswell/DSAprep/tree/master/1108-defanging-an-ip-address) |
 | [1160-letter-tile-possibilities](https://github.com/adicodeswell/DSAprep/tree/master/1160-letter-tile-possibilities) |
 | [1598-crawler-log-folder](https://github.com/adicodeswell/DSAprep/tree/master/1598-crawler-log-folder) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adicodeswell/DSAprep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
