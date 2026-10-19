@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adicodeswell/DSAprep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/adicodeswell/DSAprep/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/adicodeswell/DSAprep/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/adicodeswell/DSAprep/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/adicodeswell/DSAprep/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/adicodeswell/DSAprep/tree/master/0322-coin-change) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/adicodeswell/DSAprep/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/adicodeswell/DSAprep/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/adicodeswell/DSAprep/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/adicodeswell/DSAprep/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adicodeswell/DSAprep/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adicodeswell/DSAprep/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adicodeswell/DSAprep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adicodeswell/DSAprep/tree/master/0442-find-all-duplicates-in-an-array) |
