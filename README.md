@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/adicodeswell/DSAprep/tree/master/0049-group-anagrams) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/adicodeswell/DSAprep/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adicodeswell/DSAprep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0094-binary-tree-inorder-traversal) |
@@ -632,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0022-generate-parentheses) |
 ## Algorithm X
 |  |
