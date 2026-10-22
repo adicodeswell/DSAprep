@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/adicodeswell/DSAprep/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/adicodeswell/DSAprep/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/adicodeswell/DSAprep/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adicodeswell/DSAprep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/adicodeswell/DSAprep/tree/master/0403-frog-jump) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/adicodeswell/DSAprep/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/adicodeswell/DSAprep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adicodeswell/DSAprep/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/adicodeswell/DSAprep/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/adicodeswell/DSAprep/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adicodeswell/DSAprep/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/adicodeswell/DSAprep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/adicodeswell/DSAprep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adicodeswell/DSAprep/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/adicodeswell/DSAprep/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adicodeswell/DSAprep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adicodeswell/DSAprep/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/adicodeswell/DSAprep/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
 | [1160-letter-tile-possibilities](https://github.com/adicodeswell/DSAprep/tree/master/1160-letter-tile-possibilities) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -269,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/adicodeswell/DSAprep/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adicodeswell/DSAprep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/adicodeswell/DSAprep/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -504,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/adicodeswell/DSAprep/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -645,4 +651,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/adicodeswell/DSAprep/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adicodeswell/DSAprep/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adicodeswell/DSAprep/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adicodeswell/DSAprep/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
