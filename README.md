@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/adicodeswell/DSAprep/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/adicodeswell/DSAprep/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/adicodeswell/DSAprep/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/adicodeswell/DSAprep/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/adicodeswell/DSAprep/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/adicodeswell/DSAprep/tree/master/0205-isomorphic-strings) |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adicodeswell/DSAprep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adicodeswell/DSAprep/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/adicodeswell/DSAprep/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/adicodeswell/DSAprep/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/adicodeswell/DSAprep/tree/master/0165-compare-version-numbers) |
