@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/adicodeswell/DSAprep/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/adicodeswell/DSAprep/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/adicodeswell/DSAprep/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/adicodeswell/DSAprep/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adicodeswell/DSAprep/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/adicodeswell/DSAprep/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adicodeswell/DSAprep/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/adicodeswell/DSAprep/tree/master/0940-fruit-into-baskets) |
 ## Prefix Sum
