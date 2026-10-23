@@ -1,22 +1,19 @@
 class Solution {
     public int minElement(int[] nums) {
+        int ans = Integer.MAX_VALUE;
+
         for(int i = 0; i < nums.length; i++) {
+            int num = nums[i];
             int sum = 0;
-            while(nums[i] > 0) {
-                int last = nums[i] % 10;
-                sum += last;
-                nums[i]/=10;
+
+            while(num > 0) {
+                sum += (num % 10);
+                num /= 10;
             }
 
-            nums[i] = sum;
+            ans = Math.min(ans, sum);
         }
 
-        int min = Integer.MAX_VALUE;
-
-        for(int i = 0; i < nums.length; i++) {
-            min = Math.min(nums[i], min);
-        }
-
-        return min;
+        return ans;
     }
 }
