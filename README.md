@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/adicodeswell/DSAprep/tree/master/2727-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adicodeswell/DSAprep/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3285-find-indices-of-stable-mountains](https://github.com/adicodeswell/DSAprep/tree/master/3285-find-indices-of-stable-mountains) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adicodeswell/DSAprep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adicodeswell/DSAprep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/adicodeswell/DSAprep/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/adicodeswell/DSAprep/tree/master/3925-concatenate-array-with-reverse) |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2769-find-the-maximum-achievable-number](https://github.com/adicodeswell/DSAprep/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adicodeswell/DSAprep/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/adicodeswell/DSAprep/tree/master/3280-convert-date-to-binary) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adicodeswell/DSAprep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adicodeswell/DSAprep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/adicodeswell/DSAprep/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adicodeswell/DSAprep/tree/master/3658-gcd-of-odd-and-even-sums) |
