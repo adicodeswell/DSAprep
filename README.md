@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-number-of-senior-citizens](https://github.com/adicodeswell/DSAprep/tree/master/2678-number-of-senior-citizens) |
 | [2727-number-of-senior-citizens](https://github.com/adicodeswell/DSAprep/tree/master/2727-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adicodeswell/DSAprep/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/adicodeswell/DSAprep/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3285-find-indices-of-stable-mountains](https://github.com/adicodeswell/DSAprep/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adicodeswell/DSAprep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adicodeswell/DSAprep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/adicodeswell/DSAprep/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adicodeswell/DSAprep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/adicodeswell/DSAprep/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/adicodeswell/DSAprep/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/adicodeswell/DSAprep/tree/master/0940-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adicodeswell/DSAprep/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adicodeswell/DSAprep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/adicodeswell/DSAprep/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
