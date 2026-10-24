@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/adicodeswell/DSAprep/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/adicodeswell/DSAprep/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1052-grumpy-bookstore-owner](https://github.com/adicodeswell/DSAprep/tree/master/1052-grumpy-bookstore-owner) |
 | [1087-longest-arithmetic-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/1087-longest-arithmetic-subsequence) |
 | [1127-last-stone-weight](https://github.com/adicodeswell/DSAprep/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/adicodeswell/DSAprep/tree/master/1168-duplicate-zeros) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/adicodeswell/DSAprep/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/adicodeswell/DSAprep/tree/master/0940-fruit-into-baskets) |
+| [1052-grumpy-bookstore-owner](https://github.com/adicodeswell/DSAprep/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adicodeswell/DSAprep/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adicodeswell/DSAprep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adicodeswell/DSAprep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
