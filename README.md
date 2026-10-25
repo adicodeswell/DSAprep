@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adicodeswell/DSAprep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adicodeswell/DSAprep/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adicodeswell/DSAprep/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adicodeswell/DSAprep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1534-count-good-triplets](https://github.com/adicodeswell/DSAprep/tree/master/1534-count-good-triplets) |
 | [1552-build-an-array-with-stack-operations](https://github.com/adicodeswell/DSAprep/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/adicodeswell/DSAprep/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1052-grumpy-bookstore-owner](https://github.com/adicodeswell/DSAprep/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adicodeswell/DSAprep/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adicodeswell/DSAprep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adicodeswell/DSAprep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/adicodeswell/DSAprep/tree/master/1695-maximum-erasure-value) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/adicodeswell/DSAprep/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adicodeswell/DSAprep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/adicodeswell/DSAprep/tree/master/0943-sum-of-subarray-minimums) |
 | [1087-longest-arithmetic-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/1087-longest-arithmetic-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/adicodeswell/DSAprep/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adicodeswell/DSAprep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2262-solving-questions-with-brainpower](https://github.com/adicodeswell/DSAprep/tree/master/2262-solving-questions-with-brainpower) |
 ## Backtracking
 |  |
