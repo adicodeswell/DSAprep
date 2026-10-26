@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/adicodeswell/DSAprep/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/adicodeswell/DSAprep/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/adicodeswell/DSAprep/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adicodeswell/DSAprep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/adicodeswell/DSAprep/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/adicodeswell/DSAprep/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adicodeswell/DSAprep/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/adicodeswell/DSAprep/tree/master/0992-subarrays-with-k-different-integers) |
 | [1087-longest-arithmetic-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/1087-longest-arithmetic-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/adicodeswell/DSAprep/tree/master/1160-letter-tile-possibilities) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adicodeswell/DSAprep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/adicodeswell/DSAprep/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adicodeswell/DSAprep/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/adicodeswell/DSAprep/tree/master/0940-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adicodeswell/DSAprep/tree/master/0992-subarrays-with-k-different-integers) |
 | [1052-grumpy-bookstore-owner](https://github.com/adicodeswell/DSAprep/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adicodeswell/DSAprep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adicodeswell/DSAprep/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adicodeswell/DSAprep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adicodeswell/DSAprep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/adicodeswell/DSAprep/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adicodeswell/DSAprep/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adicodeswell/DSAprep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adicodeswell/DSAprep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adicodeswell/DSAprep/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/adicodeswell/DSAprep/tree/master/2574-left-and-right-sum-differences) |
@@ -591,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/adicodeswell/DSAprep/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/adicodeswell/DSAprep/tree/master/0412-fizz-buzz) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adicodeswell/DSAprep/tree/master/1248-count-number-of-nice-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/adicodeswell/DSAprep/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/adicodeswell/DSAprep/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/adicodeswell/DSAprep/tree/master/2413-smallest-even-multiple) |
