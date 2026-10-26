@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adicodeswell/DSAprep/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/adicodeswell/DSAprep/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/adicodeswell/DSAprep/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/adicodeswell/DSAprep/tree/master/0917-reverse-only-letters) |
 | [0941-sort-array-by-parity](https://github.com/adicodeswell/DSAprep/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/adicodeswell/DSAprep/tree/master/1168-duplicate-zeros) |
