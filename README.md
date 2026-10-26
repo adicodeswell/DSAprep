@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/adicodeswell/DSAprep/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/adicodeswell/DSAprep/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/adicodeswell/DSAprep/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adicodeswell/DSAprep/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/adicodeswell/DSAprep/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adicodeswell/DSAprep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adicodeswell/DSAprep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -619,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-convert-the-temperature](https://github.com/adicodeswell/DSAprep/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adicodeswell/DSAprep/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adicodeswell/DSAprep/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adicodeswell/DSAprep/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/adicodeswell/DSAprep/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adicodeswell/DSAprep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adicodeswell/DSAprep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
