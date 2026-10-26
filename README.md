@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/adicodeswell/DSAprep/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/adicodeswell/DSAprep/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/adicodeswell/DSAprep/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/adicodeswell/DSAprep/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adicodeswell/DSAprep/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/adicodeswell/DSAprep/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/adicodeswell/DSAprep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/adicodeswell/DSAprep/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/adicodeswell/DSAprep/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/adicodeswell/DSAprep/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/adicodeswell/DSAprep/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/adicodeswell/DSAprep/tree/master/0771-jewels-and-stones) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adicodeswell/DSAprep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adicodeswell/DSAprep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/adicodeswell/DSAprep/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/adicodeswell/DSAprep/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adicodeswell/DSAprep/tree/master/0646-maximum-length-of-pair-chain) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/adicodeswell/DSAprep/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
@@ -640,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/adicodeswell/DSAprep/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adicodeswell/DSAprep/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/adicodeswell/DSAprep/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/adicodeswell/DSAprep/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/adicodeswell/DSAprep/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Pigeonhole Principle
