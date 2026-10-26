@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0457-circular-array-loop](https://github.com/adicodeswell/DSAprep/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/adicodeswell/DSAprep/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/adicodeswell/DSAprep/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/adicodeswell/DSAprep/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/adicodeswell/DSAprep/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/adicodeswell/DSAprep/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adicodeswell/DSAprep/tree/master/0646-maximum-length-of-pair-chain) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/adicodeswell/DSAprep/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adicodeswell/DSAprep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/adicodeswell/DSAprep/tree/master/0457-circular-array-loop) |
+| [0560-subarray-sum-equals-k](https://github.com/adicodeswell/DSAprep/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/adicodeswell/DSAprep/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/adicodeswell/DSAprep/tree/master/0771-jewels-and-stones) |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adicodeswell/DSAprep/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adicodeswell/DSAprep/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/adicodeswell/DSAprep/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/adicodeswell/DSAprep/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adicodeswell/DSAprep/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adicodeswell/DSAprep/tree/master/1248-count-number-of-nice-subarrays) |
