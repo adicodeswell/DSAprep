@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/adicodeswell/DSAprep/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0237-delete-node-in-a-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/adicodeswell/DSAprep/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adicodeswell/DSAprep/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adicodeswell/DSAprep/tree/master/2181-merge-nodes-in-between-zeros) |
