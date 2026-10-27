@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/adicodeswell/DSAprep/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adicodeswell/DSAprep/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/adicodeswell/DSAprep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adicodeswell/DSAprep/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/adicodeswell/DSAprep/tree/master/0205-isomorphic-strings) |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/adicodeswell/DSAprep/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adicodeswell/DSAprep/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0141-linked-list-cycle](https://github.com/adicodeswell/DSAprep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adicodeswell/DSAprep/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/adicodeswell/DSAprep/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0206-reverse-linked-list) |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/adicodeswell/DSAprep/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adicodeswell/DSAprep/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/adicodeswell/DSAprep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adicodeswell/DSAprep/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/adicodeswell/DSAprep/tree/master/0165-compare-version-numbers) |
@@ -637,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/adicodeswell/DSAprep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adicodeswell/DSAprep/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/adicodeswell/DSAprep/tree/master/0287-find-the-duplicate-number) |
