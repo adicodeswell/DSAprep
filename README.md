@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/adicodeswell/DSAprep/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/adicodeswell/DSAprep/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adicodeswell/DSAprep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/adicodeswell/DSAprep/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2470-removing-stars-from-a-string](https://github.com/adicodeswell/DSAprep/tree/master/2470-removing-stars-from-a-string) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/adicodeswell/DSAprep/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/adicodeswell/DSAprep/tree/master/1598-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2000-reverse-prefix-of-word](https://github.com/adicodeswell/DSAprep/tree/master/2000-reverse-prefix-of-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/adicodeswell/DSAprep/tree/master/2227-sum-of-subarray-ranges) |
 | [2470-removing-stars-from-a-string](https://github.com/adicodeswell/DSAprep/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/adicodeswell/DSAprep/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/adicodeswell/DSAprep/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adicodeswell/DSAprep/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2000-reverse-prefix-of-word](https://github.com/adicodeswell/DSAprep/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/adicodeswell/DSAprep/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/adicodeswell/DSAprep/tree/master/2460-apply-operations-to-an-array) |
 ## Quicksort
