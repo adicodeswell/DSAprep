@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/adicodeswell/DSAprep/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adicodeswell/DSAprep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adicodeswell/DSAprep/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/adicodeswell/DSAprep/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2227-sum-of-subarray-ranges](https://github.com/adicodeswell/DSAprep/tree/master/2227-sum-of-subarray-ranges) |
 | [2262-solving-questions-with-brainpower](https://github.com/adicodeswell/DSAprep/tree/master/2262-solving-questions-with-brainpower) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/adicodeswell/DSAprep/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/adicodeswell/DSAprep/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/adicodeswell/DSAprep/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adicodeswell/DSAprep/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/adicodeswell/DSAprep/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/adicodeswell/DSAprep/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2470-removing-stars-from-a-string](https://github.com/adicodeswell/DSAprep/tree/master/2470-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/adicodeswell/DSAprep/tree/master/2678-number-of-senior-citizens) |
@@ -611,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adicodeswell/DSAprep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adicodeswell/DSAprep/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/adicodeswell/DSAprep/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## String Matching
 |  |
 | ------- |
@@ -632,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/adicodeswell/DSAprep/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adicodeswell/DSAprep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adicodeswell/DSAprep/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/adicodeswell/DSAprep/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/adicodeswell/DSAprep/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/adicodeswell/DSAprep/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/adicodeswell/DSAprep/tree/master/2413-smallest-even-multiple) |
