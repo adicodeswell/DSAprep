@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/adicodeswell/DSAprep/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/adicodeswell/DSAprep/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/adicodeswell/DSAprep/tree/master/1552-build-an-array-with-stack-operations) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adicodeswell/DSAprep/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/adicodeswell/DSAprep/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/adicodeswell/DSAprep/tree/master/2460-apply-operations-to-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/adicodeswell/DSAprep/tree/master/2470-removing-stars-from-a-string) |
 | [3701-compute-alternating-sum](https://github.com/adicodeswell/DSAprep/tree/master/3701-compute-alternating-sum) |
