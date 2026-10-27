@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/adicodeswell/DSAprep/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/adicodeswell/DSAprep/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/adicodeswell/DSAprep/tree/master/0778-reorganize-string) |
+| [1323-maximum-69-number](https://github.com/adicodeswell/DSAprep/tree/master/1323-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adicodeswell/DSAprep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -635,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/adicodeswell/DSAprep/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adicodeswell/DSAprep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adicodeswell/DSAprep/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/adicodeswell/DSAprep/tree/master/1323-maximum-69-number) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/adicodeswell/DSAprep/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/adicodeswell/DSAprep/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/adicodeswell/DSAprep/tree/master/2396-strictly-palindromic-number) |
