@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adicodeswell/DSAprep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/adicodeswell/DSAprep/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/adicodeswell/DSAprep/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adicodeswell/DSAprep/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adicodeswell/DSAprep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adicodeswell/DSAprep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/adicodeswell/DSAprep/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adicodeswell/DSAprep/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adicodeswell/DSAprep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -632,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/adicodeswell/DSAprep/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/adicodeswell/DSAprep/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/adicodeswell/DSAprep/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adicodeswell/DSAprep/tree/master/0150-evaluate-reverse-polish-notation) |
