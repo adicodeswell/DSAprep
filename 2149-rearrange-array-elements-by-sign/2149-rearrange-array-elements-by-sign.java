@@ -8,11 +8,7 @@ class Solution {
             if(nums[i] >= 0) {
                 res[pos] = nums[i];
                 pos += 2;
-            }
-        }
-
-        for(int i = 0; i < nums.length; i++) {
-            if(nums[i] < 0) {
+            } else {
                 res[neg] = nums[i];
                 neg += 2;
             }
