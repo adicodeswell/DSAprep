@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adicodeswell/DSAprep/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/adicodeswell/DSAprep/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adicodeswell/DSAprep/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adicodeswell/DSAprep/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adicodeswell/DSAprep/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/adicodeswell/DSAprep/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adicodeswell/DSAprep/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/adicodeswell/DSAprep/tree/master/0203-remove-linked-list-elements) |
@@ -643,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adicodeswell/DSAprep/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/adicodeswell/DSAprep/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/adicodeswell/DSAprep/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/adicodeswell/DSAprep/tree/master/0070-climbing-stairs) |
