@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/adicodeswell/DSAprep/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/adicodeswell/DSAprep/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/adicodeswell/DSAprep/tree/master/3379-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/adicodeswell/DSAprep/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/adicodeswell/DSAprep/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -569,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/adicodeswell/DSAprep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/adicodeswell/DSAprep/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/adicodeswell/DSAprep/tree/master/2460-apply-operations-to-an-array) |
+| [3794-reverse-string-prefix](https://github.com/adicodeswell/DSAprep/tree/master/3794-reverse-string-prefix) |
 ## Quicksort
 |  |
 | ------- |
