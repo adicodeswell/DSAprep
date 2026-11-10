@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/adicodeswell/DSAprep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adicodeswell/DSAprep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/adicodeswell/DSAprep/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/adicodeswell/DSAprep/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/adicodeswell/DSAprep/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/adicodeswell/DSAprep/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/adicodeswell/DSAprep/tree/master/0217-contains-duplicate) |
@@ -595,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/adicodeswell/DSAprep/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/adicodeswell/DSAprep/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adicodeswell/DSAprep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/adicodeswell/DSAprep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adicodeswell/DSAprep/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/adicodeswell/DSAprep/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/0300-longest-increasing-subsequence) |
