@@ -602,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/adicodeswell/DSAprep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/adicodeswell/DSAprep/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/adicodeswell/DSAprep/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/adicodeswell/DSAprep/tree/master/0343-integer-break) |
 | [0403-frog-jump](https://github.com/adicodeswell/DSAprep/tree/master/0403-frog-jump) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adicodeswell/DSAprep/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/adicodeswell/DSAprep/tree/master/0740-delete-and-earn) |
@@ -681,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/adicodeswell/DSAprep/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/adicodeswell/DSAprep/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/adicodeswell/DSAprep/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/adicodeswell/DSAprep/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/adicodeswell/DSAprep/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adicodeswell/DSAprep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adicodeswell/DSAprep/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
