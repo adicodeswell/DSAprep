@@ -1,18 +1,14 @@
 class Solution {
-    HashMap<Integer, Integer> map = new HashMap<>();
     public int climbStairs(int n) {
-        if(map.containsKey(n)) {
-            return map.get(n);
-        }
-        if(n == 0) {
-            return 1;
-        } else if(n == -1) {
-            return 0;
+        int dp0 = 1; // one way to be at ground
+        int dp1 = 1; // one way to be at the first stair
+
+        for(int i = 2; i <= n; i++) {
+            int x = dp0 + dp1;
+            dp0 = dp1;
+            dp1 = x;
         }
 
-        int res = climbStairs(n-1) + climbStairs(n-2);
-        map.put(n, res);
-        return res;
+        return dp1; // I did dp1 = x that's why I am returning dp1 not x
     }
-
 }
