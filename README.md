@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/adicodeswell/DSAprep/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adicodeswell/DSAprep/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/adicodeswell/DSAprep/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/adicodeswell/DSAprep/tree/master/3945-digit-frequency-score) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/adicodeswell/DSAprep/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/adicodeswell/DSAprep/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/adicodeswell/DSAprep/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/adicodeswell/DSAprep/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/adicodeswell/DSAprep/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/adicodeswell/DSAprep/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/adicodeswell/DSAprep/tree/master/3379-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/adicodeswell/DSAprep/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/adicodeswell/DSAprep/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/adicodeswell/DSAprep/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
