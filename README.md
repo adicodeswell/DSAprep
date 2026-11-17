@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/adicodeswell/DSAprep/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adicodeswell/DSAprep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adicodeswell/DSAprep/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adicodeswell/DSAprep/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/adicodeswell/DSAprep/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adicodeswell/DSAprep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/adicodeswell/DSAprep/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/adicodeswell/DSAprep/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/adicodeswell/DSAprep/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/adicodeswell/DSAprep/tree/master/1980-find-unique-binary-string) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adicodeswell/DSAprep/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/adicodeswell/DSAprep/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adicodeswell/DSAprep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/adicodeswell/DSAprep/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/adicodeswell/DSAprep/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/adicodeswell/DSAprep/tree/master/1777-determine-if-two-strings-are-close) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/adicodeswell/DSAprep/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adicodeswell/DSAprep/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adicodeswell/DSAprep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/adicodeswell/DSAprep/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/adicodeswell/DSAprep/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adicodeswell/DSAprep/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adicodeswell/DSAprep/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/adicodeswell/DSAprep/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/adicodeswell/DSAprep/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/adicodeswell/DSAprep/tree/master/2329-maximum-product-after-k-increments) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/adicodeswell/DSAprep/tree/master/4065-rearrange-array-by-removing-distinct-values) |
