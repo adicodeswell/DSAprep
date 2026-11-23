@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adicodeswell/DSAprep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/adicodeswell/DSAprep/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/adicodeswell/DSAprep/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/adicodeswell/DSAprep/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adicodeswell/DSAprep/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/adicodeswell/DSAprep/tree/master/2678-number-of-senior-citizens) |
 | [2727-number-of-senior-citizens](https://github.com/adicodeswell/DSAprep/tree/master/2727-number-of-senior-citizens) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adicodeswell/DSAprep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adicodeswell/DSAprep/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/adicodeswell/DSAprep/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/adicodeswell/DSAprep/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/adicodeswell/DSAprep/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
